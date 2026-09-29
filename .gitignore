@@ -1,0 +1,19 @@
+# Результаты сборки .NET
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+.vs/
+
+# Файлы операционной системы
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Редакторы
+.vscode/
+*.docx~
+~$*.docx
+
+# DBeaver
+.metadata/
